@@ -1,2 +1,2 @@
 # jugdelhi.org
-Delhi JUG Website
+Delhi-NCR JUG Website
