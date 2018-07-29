@@ -1,0 +1,88 @@
+/*
+Theme Name: EasyPoint
+
+Adding support for languages written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right-to-Left_Language_Support
+
+*/
+
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+    text-align: right;
+}
+.site-branding {
+    text-align: right;
+}
+.text-right {
+    text-align: left !important;
+}
+.main-navigation ul ul {
+    text-align: right;
+    padding-right: 1rem;
+}
+.entry-content blockquote {
+    padding-left: 10px;
+    padding-right: 50px;
+}
+.entry-content blockquote:before {
+    content: "\201C";
+    font-family: Georgia, serif;
+    font-weight: 400;
+    position: absolute;
+    right: 10px;
+    top: 0;
+    font-size: 5rem;
+    line-height: 1.1;
+}
+.ep-sidebar {
+    border-right: 1px solid #DBE3E7;
+    border-left-width: 0px;
+}
+.widget {
+    padding-left: 0;
+    padding-right: 1rem;
+}
+.widget ul {
+    padding-right: 20px;
+    margin-right: 0;
+}
+@media (min-width: 768px) {
+    .content-area {
+        padding-left: 30px;
+        padding-right: 15px;
+    }
+}
+.entry-meta .badge {
+    margin-right: 0;
+    margin-left: 0.5rem;
+}
+.comment-navigation .nav-previous, .posts-navigation .nav-previous, .post-navigation .nav-previous {
+    text-align: left;
+}
+.ep-comments-area .comment-author.vcard img {
+    float: right;
+    margin-left: 1rem;
+    margin-right: 0;
+}
+.ep-comments-area .says {
+    display: none;
+}
+.page-left-sidebar .ep-sidebar, .frontpage-left-sidebar .ep-sidebar, .archive-left-sidebar .ep-sidebar, .single-left-sidebar .ep-sidebar {
+    border-left: 1px solid #DBE3E7;
+    border-right-width: 0px;
+}
+.page-left-sidebar .ep-sidebar .widget, .frontpage-left-sidebar .ep-sidebar .widget, .archive-left-sidebar .ep-sidebar .widget, .single-left-sidebar .ep-sidebar .widget {
+    padding-right: 0;
+    padding-left: 1rem;
+}
+@media (min-width: 768px) {
+    .page-left-sidebar .content-area, .frontpage-left-sidebar .content-area, .archive-left-sidebar .content-area, .single-left-sidebar .content-area {
+        padding-right: 30px;
+        padding-left: 15px;
+    }
+}
