@@ -1,0 +1,363 @@
+0000.000 (0) Opened log file at time: Sat, 28 Jul 2018 20:45:40 +0000 on https://jugdelhi.org
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.12 WP: 4.9.7 PHP: 7.0.30-0ubuntu0.16.04.1 (apache2handler, Linux ip-172-31-45-70 4.4.0-1052-aws #61-Ubuntu SMP Mon Feb 12 23:05:58 UTC 2018 x86_64) MySQL: 5.7.22 WPLANG: en_US Server: Apache/2.4.18 (Ubuntu) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 7.5M | 4M) multisite: N openssl: OpenSSL 1.0.2g  1 Mar 2016 mcrypt: N LANG: C ZipArchive::addFile: N
+0000.004 (0) Free space on disk containing Updraft's temporary directory: 26839.8 MB
+0000.006 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB: 1 (schedule: weekly)
+0000.008 (0) Semaphore (fd, wp_options) being initialised
+0000.013 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.020 (0) Set semaphore last lock (fd) time to 2018-07-28 20:45:40
+0000.021 (0) Semaphore lock (fd) complete
+0000.026 (0) Backup run: resumption=0, nonce=0ce35ae37e66, begun at=1532810740 (0s ago), job type=backup
+0000.029 (0) Scheduling a resumption (1) after 300 seconds (1532811040) in case this run gets aborted
+0000.042 (0) Checking if we have a zip executable available
+0000.045 (0) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0000.047 (0) Creation of backups of directories: beginning
+0000.052 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.114 (0) Total entities for the zip file: 576 directories, 3363 files (0 skipped as non-modified), 60.3 MB
+0000.119 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 61696.3 KB, split: 409600 KB)
+0000.122 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.125 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.128 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.130 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.133 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.136 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0000.138 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0000.141 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0000.144 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0000.146 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0000.149 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 1100 files added (on-disk size: 0 KB)
+0000.152 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 1200 files added (on-disk size: 0 KB)
+0000.154 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 1300 files added (on-disk size: 0 KB)
+0000.157 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 1400 files added (on-disk size: 0 KB)
+0000.160 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 1500 files added (on-disk size: 0 KB)
+0000.161 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 1600 files added (on-disk size: 0 KB)
+0000.164 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 1700 files added (on-disk size: 0 KB)
+0000.166 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 1800 files added (on-disk size: 0 KB)
+0000.169 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 1900 files added (on-disk size: 0 KB)
+0000.172 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 2000 files added (on-disk size: 0 KB)
+0000.174 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 2100 files added (on-disk size: 0 KB)
+0000.177 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 2200 files added (on-disk size: 0 KB)
+0000.180 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 2300 files added (on-disk size: 0 KB)
+0000.182 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 2400 files added (on-disk size: 0 KB)
+0000.185 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 2500 files added (on-disk size: 0 KB)
+0000.188 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 2600 files added (on-disk size: 0 KB)
+0000.189 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 2700 files added (on-disk size: 0 KB)
+0000.192 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 2800 files added (on-disk size: 0 KB)
+0000.195 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 2900 files added (on-disk size: 0 KB)
+0000.197 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 3000 files added (on-disk size: 0 KB)
+0000.200 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 3100 files added (on-disk size: 0 KB)
+0000.203 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 3200 files added (on-disk size: 0 KB)
+0000.205 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip.tmp: 3300 files added (on-disk size: 0 KB)
+0029.301 (0) Created plugins zip (0) - 23511.4 KB in 29.2 s (803.9 KB/s) (sha1: 7cfca7be456ff10218d8168a520dc4a243a5131b, sha256: cc23987af555e370f1b04db78b44a8e755967b44befd1a399da70c0aa3ec07f7)
+0029.305 (0) Beginning creation of dump of themes (split every: 400 MB)
+0029.408 (0) Total entities for the zip file: 202 directories, 1083 files (0 skipped as non-modified), 34.4 MB
+0029.411 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 35197.8 KB, split: 409600 KB)
+0029.415 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0029.418 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0029.421 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0029.424 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0029.426 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0029.429 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0029.432 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0029.434 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0029.437 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0029.439 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-themes.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0047.618 (0) Created themes zip (0) - 22719.3 KB in 18.3 s (1240.8 KB/s) (sha1: 6a9fdfc3056164fa2be9c1a48fb6d3d3b90efe98, sha256: 0508c33e3670624ecafd690df9bf7c2b78fbba95ff3272db73d096ec0627d00b)
+0047.623 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0047.624 (0) Looking for candidates to backup in: /var/www/html/wp-content/uploads
+0047.625 (0) finding files: 2018: adding to list (1)
+0047.627 (0) finding files: bb-plugin: adding to list (2)
+0047.628 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0047.645 (0) Total entities for the zip file: 8 directories, 660 files (0 skipped as non-modified), 90.4 MB
+0047.647 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 92529.5 KB, split: 409600 KB)
+0047.649 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0047.652 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0047.653 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0047.656 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0047.659 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-uploads.zip.tmp: 500 files added (on-disk size: 0 KB)
+0047.661 (0) Zip: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-uploads.zip.tmp: 600 files added (on-disk size: 0 KB)
+0056.567 (0) Created uploads zip (0) - 91600.4 KB in 8.9 s (10250.4 KB/s) (sha1: 44481e253cda65955d0e916e9bd983aeade89f8e, sha256: 79de2d1137bfeb6cce38cffd6ac5e737e9b7da604c912902a5d33576821559a9)
+0056.571 (0) Beginning backup of other directories found in the content directory (index: 0)
+0056.572 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0056.575 (0) Looking for candidates to backup in: /var/www/html/wp-content
+0056.576 (0) finding files: uploads: skipping: this is the uploads directory
+0056.576 (0) finding files: plugins: skipping: this is the plugins directory
+0056.579 (0) finding files: themes: skipping: this is the themes directory
+0056.579 (0) finding files: logs: adding to list (1)
+0056.581 (0) finding files: upgrade: skipping: excluded by options
+0056.583 (0) finding files: updraft: skipping: this is the updraft directory
+0056.584 (0) finding files: index.php: adding to list (2)
+0056.589 (0) Total entities for the zip file: 2 directories, 1 files (0 skipped as non-modified), 0 MB
+0056.591 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 0 KB, split: 409600 KB)
+0056.600 (0) Created others zip (0) - 0.3 KB in 0 s (22.5 KB/s) (sha1: dbca607dc8390676ea47754567a7e42ade5268e9, sha256: 390dcccc3189c5c452bfeb6d97a3514b11057762e4211dbc23b5cc9609951b54)
+0056.606 (0) Saving backup status to database (elements: 8)
+0056.609 (0) Beginning creation of database dump (WordPress DB)
+0056.612 (0) Testing: /usr/bin/mysqldump
+0056.672 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1205 bytes total)
+0056.675 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0056.719 (0) Table wp_options: Total expected rows (approximate): 320
+0056.735 (0) Table wp_options: Total rows added: 327 in 0.01 seconds
+0056.737 (0) Table wp_options: finishing file (backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_options.table.gz - 53.4 KB)
+0056.743 (0) Table wp_users: Total expected rows (approximate): 0
+0056.745 (0) Table wp_users: Total rows added: 1 in 0.00 seconds
+0056.747 (0) Table wp_users: finishing file (backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_users.table.gz - 0.6 KB)
+0056.752 (0) Table wp_usermeta: Total expected rows (approximate): 30
+0056.754 (0) Table wp_usermeta: Total rows added: 30 in 0.00 seconds
+0056.756 (0) Table wp_usermeta: finishing file (backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_usermeta.table.gz - 1.7 KB)
+0056.761 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0056.764 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0056.765 (0) Table wp_commentmeta: finishing file (backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0056.771 (0) Table wp_comments: Total expected rows (approximate): 0
+0056.773 (0) Table wp_comments: Total rows added: 1 in 0.00 seconds
+0056.775 (0) Table wp_comments: finishing file (backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_comments.table.gz - 0.7 KB)
+0056.782 (0) Table wp_links: Total expected rows (approximate): 0
+0056.785 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0056.787 (0) Table wp_links: finishing file (backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_links.table.gz - 0.4 KB)
+0056.792 (0) Table wp_postmeta: Total expected rows (approximate): 708
+0056.942 (0) Table wp_postmeta: Total rows added: 747 in 0.15 seconds
+0056.945 (0) Table wp_postmeta: finishing file (backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_postmeta.table.gz - 514 KB)
+0056.951 (0) Table wp_posts: Total expected rows (approximate): 223
+0056.968 (0) Table wp_posts: Total rows added: 301 in 0.02 seconds
+0056.971 (0) Table wp_posts: finishing file (backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_posts.table.gz - 46.2 KB)
+0056.976 (0) Table wp_term_relationships: Total expected rows (approximate): 8
+0056.978 (0) Table wp_term_relationships: Total rows added: 8 in 0.00 seconds
+0056.980 (0) Table wp_term_relationships: finishing file (backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0056.985 (0) Table wp_term_taxonomy: Total expected rows (approximate): 3
+0056.988 (0) Table wp_term_taxonomy: Total rows added: 3 in 0.00 seconds
+0056.989 (0) Table wp_term_taxonomy: finishing file (backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_term_taxonomy.table.gz - 0.5 KB)
+0056.995 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0056.997 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0056.999 (0) Table wp_termmeta: finishing file (backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_termmeta.table.gz - 0.4 KB)
+0057.003 (0) Table wp_terms: Total expected rows (approximate): 3
+0057.005 (0) Table wp_terms: Total rows added: 3 in 0.00 seconds
+0057.007 (0) Table wp_terms: finishing file (backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_terms.table.gz - 0.4 KB)
+0057.012 (0) Table wp_cn_social_icon: Total expected rows (approximate): 3
+0057.014 (0) Table wp_cn_social_icon: Total rows added: 3 in 0.00 seconds
+0057.016 (0) Table wp_cn_social_icon: finishing file (backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_cn_social_icon.table.gz - 0.5 KB)
+0057.021 (0) Table wp_newsletter: Total expected rows (approximate): 0
+0057.024 (0) Table wp_newsletter: Total rows added: 0 in 0.00 seconds
+0057.025 (0) Table wp_newsletter: finishing file (backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_newsletter.table.gz - 0.8 KB)
+0057.031 (0) Table wp_newsletter_emails: Total expected rows (approximate): 0
+0057.033 (0) Table wp_newsletter_emails: Total rows added: 0 in 0.00 seconds
+0057.035 (0) Table wp_newsletter_emails: finishing file (backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_newsletter_emails.table.gz - 0.6 KB)
+0057.040 (0) Table wp_newsletter_sent: Total expected rows (approximate): 0
+0057.041 (0) Table wp_newsletter_sent: Total rows added: 0 in 0.00 seconds
+0057.043 (0) Table wp_newsletter_sent: finishing file (backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_newsletter_sent.table.gz - 0.4 KB)
+0057.049 (0) Table wp_newsletter_stats: Total expected rows (approximate): 0
+0057.052 (0) Table wp_newsletter_stats: Total rows added: 0 in 0.00 seconds
+0057.053 (0) Table wp_newsletter_stats: finishing file (backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_newsletter_stats.table.gz - 0.4 KB)
+0057.058 (0) Table wp_newsletter_user_logs: Total expected rows (approximate): 0
+0057.060 (0) Table wp_newsletter_user_logs: Total rows added: 0 in 0.00 seconds
+0057.061 (0) Table wp_newsletter_user_logs: finishing file (backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_newsletter_user_logs.table.gz - 0.3 KB)
+0057.067 (0) backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_options.table.gz (1/18): adding to final database dump
+0057.080 (0) backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_users.table.gz (2/18): adding to final database dump
+0057.082 (0) backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_usermeta.table.gz (3/18): adding to final database dump
+0057.085 (0) backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_commentmeta.table.gz (4/18): adding to final database dump
+0057.087 (0) backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_comments.table.gz (5/18): adding to final database dump
+0057.088 (0) backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_links.table.gz (6/18): adding to final database dump
+0057.089 (0) backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_postmeta.table.gz (7/18): adding to final database dump
+0057.227 (0) backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_posts.table.gz (8/18): adding to final database dump
+0057.241 (0) backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_term_relationships.table.gz (9/18): adding to final database dump
+0057.256 (0) backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_term_taxonomy.table.gz (10/18): adding to final database dump
+0057.258 (0) backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_termmeta.table.gz (11/18): adding to final database dump
+0057.260 (0) backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_terms.table.gz (12/18): adding to final database dump
+0057.261 (0) backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_cn_social_icon.table.gz (13/18): adding to final database dump
+0057.263 (0) backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_newsletter.table.gz (14/18): adding to final database dump
+0057.265 (0) backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_newsletter_emails.table.gz (15/18): adding to final database dump
+0057.267 (0) backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_newsletter_sent.table.gz (16/18): adding to final database dump
+0057.268 (0) backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_newsletter_stats.table.gz (17/18): adding to final database dump
+0057.269 (0) backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db-table-wp_newsletter_user_logs.table.gz (18/18): adding to final database dump
+0057.271 (0) backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db.gz: finished writing out complete database file (600 KB)
+0057.286 (0) Total database tables backed up: 18 (backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db.gz, size: 632586, sha256)
+0057.295 (0) backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0057.296 (0) backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0057.297 (0) backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0057.299 (0) backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-others.zip: others: This file has not yet been successfully uploaded: will queue
+0057.300 (0) backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db.gz: db: This file has not yet been successfully uploaded: will queue
+0057.301 (0) Saving backup history. Total backup size: 135.2 MB
+0057.304 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0057.309 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0057.312 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-d424c8ab19c114bd1c707230e786c4b7)
+0058.031 (0) Google Drive: creating path: /UpdraftPlus
+0059.214 (0) Google Drive quota usage: used=24.1 MB, total=15360 MB, available=15335.9 MB
+0059.217 (0) backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip: Attempting to upload to Google Drive (into folder id: 1sAxYMhVvG-uec0qw7VuqBpLyb6R0OXhl)
+0059.942 (0) Googledrive chunked upload: 4.4 % uploaded (1048576)
+0060.286 (0) Googledrive chunked upload: 8.7 % uploaded (2097152)
+0060.611 (0) Googledrive chunked upload: 13.1 % uploaded (3145728)
+0060.983 (0) Googledrive chunked upload: 17.4 % uploaded (4194304)
+0061.311 (0) Googledrive chunked upload: 21.8 % uploaded (5242880)
+0061.621 (0) Googledrive chunked upload: 26.1 % uploaded (6291456)
+0061.957 (0) Googledrive chunked upload: 30.5 % uploaded (7340032)
+0062.263 (0) Googledrive chunked upload: 34.8 % uploaded (8388608)
+0062.555 (0) Googledrive chunked upload: 39.2 % uploaded (9437184)
+0062.908 (0) Googledrive chunked upload: 43.6 % uploaded (10485760)
+0063.197 (0) Googledrive chunked upload: 47.9 % uploaded (11534336)
+0063.502 (0) Googledrive chunked upload: 52.3 % uploaded (12582912)
+0063.815 (0) Googledrive chunked upload: 56.6 % uploaded (13631488)
+0064.105 (0) Googledrive chunked upload: 61 % uploaded (14680064)
+0064.458 (0) Googledrive chunked upload: 65.3 % uploaded (15728640)
+0064.789 (0) Googledrive chunked upload: 69.7 % uploaded (16777216)
+0065.103 (0) Googledrive chunked upload: 74 % uploaded (17825792)
+0065.407 (0) Googledrive chunked upload: 78.4 % uploaded (18874368)
+0065.762 (0) Googledrive chunked upload: 82.8 % uploaded (19922944)
+0066.076 (0) Googledrive chunked upload: 87.1 % uploaded (20971520)
+0066.379 (0) Googledrive chunked upload: 91.5 % uploaded (22020096)
+0066.726 (0) Googledrive chunked upload: 95.8 % uploaded (23068672)
+0067.851 (0) Googledrive chunked upload: 100 % uploaded (23068672)
+0067.855 (0) OK: Archive backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip uploaded to Google Drive in 8.64 seconds
+0067.859 (0) Recording as successfully uploaded: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip (0580d7fb4e2e9166c86e78646de8d086)
+0067.868 (0) Deleting local file: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-plugins.zip: OK
+0068.170 (0) Google Drive quota usage: used=47 MB, total=15360 MB, available=15313 MB
+0068.172 (0) backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-themes.zip: Attempting to upload to Google Drive (into folder id: 1sAxYMhVvG-uec0qw7VuqBpLyb6R0OXhl)
+0068.868 (0) Googledrive chunked upload: 4.5 % uploaded (1048576)
+0069.188 (0) Googledrive chunked upload: 9 % uploaded (2097152)
+0069.487 (0) Googledrive chunked upload: 13.5 % uploaded (3145728)
+0069.753 (0) Googledrive chunked upload: 18 % uploaded (4194304)
+0070.107 (0) Googledrive chunked upload: 22.5 % uploaded (5242880)
+0070.454 (0) Googledrive chunked upload: 27 % uploaded (6291456)
+0070.764 (0) Googledrive chunked upload: 31.6 % uploaded (7340032)
+0071.112 (0) Googledrive chunked upload: 36.1 % uploaded (8388608)
+0071.454 (0) Googledrive chunked upload: 40.6 % uploaded (9437184)
+0071.760 (0) Googledrive chunked upload: 45.1 % uploaded (10485760)
+0072.059 (0) Googledrive chunked upload: 49.6 % uploaded (11534336)
+0072.399 (0) Googledrive chunked upload: 54.1 % uploaded (12582912)
+0072.723 (0) Googledrive chunked upload: 58.6 % uploaded (13631488)
+0073.013 (0) Googledrive chunked upload: 63.1 % uploaded (14680064)
+0073.364 (0) Googledrive chunked upload: 67.6 % uploaded (15728640)
+0073.636 (0) Googledrive chunked upload: 72.1 % uploaded (16777216)
+0073.925 (0) Googledrive chunked upload: 76.6 % uploaded (17825792)
+0074.233 (0) Googledrive chunked upload: 81.1 % uploaded (18874368)
+0074.533 (0) Googledrive chunked upload: 85.6 % uploaded (19922944)
+0074.851 (0) Googledrive chunked upload: 90.1 % uploaded (20971520)
+0075.152 (0) Googledrive chunked upload: 94.7 % uploaded (22020096)
+0075.455 (0) Googledrive chunked upload: 99.2 % uploaded (23068672)
+0076.461 (0) Googledrive chunked upload: 100 % uploaded (23068672)
+0076.467 (0) OK: Archive backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-themes.zip uploaded to Google Drive in 8.29 seconds
+0076.469 (0) Recording as successfully uploaded: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-themes.zip (5b935839578f251c919afb66d04a68cc)
+0076.478 (0) Deleting local file: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-themes.zip: OK
+0076.777 (0) Google Drive quota usage: used=69.2 MB, total=15360 MB, available=15290.8 MB
+0076.780 (0) backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-uploads.zip: Attempting to upload to Google Drive (into folder id: 1sAxYMhVvG-uec0qw7VuqBpLyb6R0OXhl)
+0077.466 (0) Googledrive chunked upload: 1.1 % uploaded (1048576)
+0077.771 (0) Googledrive chunked upload: 2.2 % uploaded (2097152)
+0078.100 (0) Googledrive chunked upload: 3.4 % uploaded (3145728)
+0078.421 (0) Googledrive chunked upload: 4.5 % uploaded (4194304)
+0078.749 (0) Googledrive chunked upload: 5.6 % uploaded (5242880)
+0079.093 (0) Googledrive chunked upload: 6.7 % uploaded (6291456)
+0079.431 (0) Googledrive chunked upload: 7.8 % uploaded (7340032)
+0079.737 (0) Googledrive chunked upload: 8.9 % uploaded (8388608)
+0080.063 (0) Googledrive chunked upload: 10.1 % uploaded (9437184)
+0080.359 (0) Googledrive chunked upload: 11.2 % uploaded (10485760)
+0080.679 (0) Googledrive chunked upload: 12.3 % uploaded (11534336)
+0080.988 (0) Googledrive chunked upload: 13.4 % uploaded (12582912)
+0081.332 (0) Googledrive chunked upload: 14.5 % uploaded (13631488)
+0081.621 (0) Googledrive chunked upload: 15.7 % uploaded (14680064)
+0081.935 (0) Googledrive chunked upload: 16.8 % uploaded (15728640)
+0082.292 (0) Googledrive chunked upload: 17.9 % uploaded (16777216)
+0082.653 (0) Googledrive chunked upload: 19 % uploaded (17825792)
+0083.016 (0) Googledrive chunked upload: 20.1 % uploaded (18874368)
+0083.343 (0) Googledrive chunked upload: 21.2 % uploaded (19922944)
+0083.640 (0) Googledrive chunked upload: 22.4 % uploaded (20971520)
+0083.959 (0) Googledrive chunked upload: 23.5 % uploaded (22020096)
+0084.309 (0) Googledrive chunked upload: 24.6 % uploaded (23068672)
+0084.623 (0) Googledrive chunked upload: 25.7 % uploaded (24117248)
+0084.961 (0) Googledrive chunked upload: 26.8 % uploaded (25165824)
+0085.284 (0) Googledrive chunked upload: 27.9 % uploaded (26214400)
+0085.609 (0) Googledrive chunked upload: 29.1 % uploaded (27262976)
+0085.924 (0) Googledrive chunked upload: 30.2 % uploaded (28311552)
+0086.231 (0) Googledrive chunked upload: 31.3 % uploaded (29360128)
+0086.553 (0) Googledrive chunked upload: 32.4 % uploaded (30408704)
+0086.953 (0) Googledrive chunked upload: 33.5 % uploaded (31457280)
+0087.299 (0) Googledrive chunked upload: 34.7 % uploaded (32505856)
+0087.649 (0) Googledrive chunked upload: 35.8 % uploaded (33554432)
+0087.987 (0) Googledrive chunked upload: 36.9 % uploaded (34603008)
+0088.291 (0) Googledrive chunked upload: 38 % uploaded (35651584)
+0088.601 (0) Googledrive chunked upload: 39.1 % uploaded (36700160)
+0088.907 (0) Googledrive chunked upload: 40.2 % uploaded (37748736)
+0089.219 (0) Googledrive chunked upload: 41.4 % uploaded (38797312)
+0089.528 (0) Googledrive chunked upload: 42.5 % uploaded (39845888)
+0089.831 (0) Googledrive chunked upload: 43.6 % uploaded (40894464)
+0090.200 (0) Googledrive chunked upload: 44.7 % uploaded (41943040)
+0090.509 (0) Googledrive chunked upload: 45.8 % uploaded (42991616)
+0090.841 (0) Googledrive chunked upload: 47 % uploaded (44040192)
+0091.169 (0) Googledrive chunked upload: 48.1 % uploaded (45088768)
+0091.472 (0) Googledrive chunked upload: 49.2 % uploaded (46137344)
+0091.805 (0) Googledrive chunked upload: 50.3 % uploaded (47185920)
+0092.137 (0) Googledrive chunked upload: 51.4 % uploaded (48234496)
+0092.451 (0) Googledrive chunked upload: 52.5 % uploaded (49283072)
+0092.828 (0) Googledrive chunked upload: 53.7 % uploaded (50331648)
+0093.129 (0) Googledrive chunked upload: 54.8 % uploaded (51380224)
+0093.492 (0) Googledrive chunked upload: 55.9 % uploaded (52428800)
+0093.828 (0) Googledrive chunked upload: 57 % uploaded (53477376)
+0094.157 (0) Googledrive chunked upload: 58.1 % uploaded (54525952)
+0094.492 (0) Googledrive chunked upload: 59.2 % uploaded (55574528)
+0094.817 (0) Googledrive chunked upload: 60.4 % uploaded (56623104)
+0095.092 (0) Googledrive chunked upload: 61.5 % uploaded (57671680)
+0095.415 (0) Googledrive chunked upload: 62.6 % uploaded (58720256)
+0095.756 (0) Googledrive chunked upload: 63.7 % uploaded (59768832)
+0096.096 (0) Googledrive chunked upload: 64.8 % uploaded (60817408)
+0096.415 (0) Googledrive chunked upload: 66 % uploaded (61865984)
+0096.743 (0) Googledrive chunked upload: 67.1 % uploaded (62914560)
+0097.068 (0) Googledrive chunked upload: 68.2 % uploaded (63963136)
+0097.392 (0) Googledrive chunked upload: 69.3 % uploaded (65011712)
+0097.705 (0) Googledrive chunked upload: 70.4 % uploaded (66060288)
+0098.040 (0) Googledrive chunked upload: 71.5 % uploaded (67108864)
+0098.380 (0) Googledrive chunked upload: 72.7 % uploaded (68157440)
+0098.733 (0) Googledrive chunked upload: 73.8 % uploaded (69206016)
+0099.060 (0) Googledrive chunked upload: 74.9 % uploaded (70254592)
+0099.421 (0) Googledrive chunked upload: 76 % uploaded (71303168)
+0099.720 (0) Googledrive chunked upload: 77.1 % uploaded (72351744)
+0100.067 (0) Googledrive chunked upload: 78.3 % uploaded (73400320)
+0100.372 (0) Googledrive chunked upload: 79.4 % uploaded (74448896)
+0100.708 (0) Googledrive chunked upload: 80.5 % uploaded (75497472)
+0101.043 (0) Googledrive chunked upload: 81.6 % uploaded (76546048)
+0101.355 (0) Googledrive chunked upload: 82.7 % uploaded (77594624)
+0101.723 (0) Googledrive chunked upload: 83.8 % uploaded (78643200)
+0102.039 (0) Googledrive chunked upload: 85 % uploaded (79691776)
+0102.360 (0) Googledrive chunked upload: 86.1 % uploaded (80740352)
+0102.665 (0) Googledrive chunked upload: 87.2 % uploaded (81788928)
+0102.973 (0) Googledrive chunked upload: 88.3 % uploaded (82837504)
+0103.296 (0) Googledrive chunked upload: 89.4 % uploaded (83886080)
+0103.625 (0) Googledrive chunked upload: 90.5 % uploaded (84934656)
+0103.933 (0) Googledrive chunked upload: 91.7 % uploaded (85983232)
+0104.237 (0) Googledrive chunked upload: 92.8 % uploaded (87031808)
+0104.562 (0) Googledrive chunked upload: 93.9 % uploaded (88080384)
+0104.884 (0) Googledrive chunked upload: 95 % uploaded (89128960)
+0105.219 (0) Googledrive chunked upload: 96.1 % uploaded (90177536)
+0105.501 (0) Googledrive chunked upload: 97.3 % uploaded (91226112)
+0105.833 (0) Googledrive chunked upload: 98.4 % uploaded (92274688)
+0106.160 (0) Googledrive chunked upload: 99.5 % uploaded (93323264)
+0107.239 (0) Googledrive chunked upload: 100 % uploaded (93323264)
+0107.253 (0) OK: Archive backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-uploads.zip uploaded to Google Drive in 30.47 seconds
+0107.257 (0) Recording as successfully uploaded: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-uploads.zip (119bff9916520c0a7868bdf80ceb88fa)
+0107.272 (0) Deleting local file: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-uploads.zip: OK
+0107.565 (0) Google Drive quota usage: used=158.7 MB, total=15360 MB, available=15201.3 MB
+0107.567 (0) backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-others.zip: Attempting to upload to Google Drive (into folder id: 1sAxYMhVvG-uec0qw7VuqBpLyb6R0OXhl)
+0109.029 (0) Googledrive chunked upload: 100 % uploaded
+0109.035 (0) OK: Archive backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-others.zip uploaded to Google Drive in 1.47 seconds
+0109.037 (0) Recording as successfully uploaded: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-others.zip (22796a82b8ed237bd100b319e7db41cc)
+0109.043 (0) Deleting local file: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-others.zip: OK
+0109.339 (0) Google Drive quota usage: used=158.7 MB, total=15360 MB, available=15201.3 MB
+0109.341 (0) backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db.gz: Attempting to upload to Google Drive (into folder id: 1sAxYMhVvG-uec0qw7VuqBpLyb6R0OXhl)
+0110.544 (0) Googledrive chunked upload: 100 % uploaded
+0110.548 (0) OK: Archive backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db.gz uploaded to Google Drive in 1.2 seconds
+0110.552 (0) Recording as successfully uploaded: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db.gz (00c7de8b163d7c2f09c0813b733d4195)
+0110.557 (0) Deleting local file: backup_2018-07-29-0215_The_DelhiNCR_Java_User_Group_0ce35ae37e66-db.gz: OK
+0110.560 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0110.563 (0) Number of backup sets in history: 1; groups (db): 1
+0110.564 (0) Examining (for databases) backup set with group_id=0, nonce=0ce35ae37e66, datestamp=1532810740 (Jul 28 2018 20:45:40)
+0110.565 (0) This backup set is the backup set just made, so will not be deleted.
+0110.565 (0) Number of backup sets in history: 1; groups (files): 1
+0110.567 (0) Examining (for files) backup set with nonce=0ce35ae37e66, datestamp=1532810740 (Jul 28 2018 20:45:40)
+0110.567 (0) This backup set is the backup set just made, so will not be deleted.
+0110.568 (0) This backup set is the backup set just made, so will not be deleted.
+0110.568 (0) This backup set is the backup set just made, so will not be deleted.
+0110.568 (0) This backup set is the backup set just made, so will not be deleted.
+0110.568 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0110.569 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0110.572 (0) Resume backup (0ce35ae37e66, 0): finish run
+0110.577 (0) Decremented the semaphore (fd) by 1
+0110.580 (0) Semaphore (fd) unlocked
+0110.581 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0110.587 (0) Fetching RSS news feed
+0110.594 (0) Fetched RSS news feed; result is a: SimplePie
+0110.598 (0) Sending email ('Files and database (Full backup)') report (attachments: 0, size: 0 KB) to: delhi...
+0110.615 (0) The backup apparently succeeded and is now complete
