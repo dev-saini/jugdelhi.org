@@ -8,7 +8,7 @@ We share knowledge over Java and related technologies in frequent Meet-Ups, Sess
 This community aims it's outreach to humanity by sharing it's vast experience, knowledge, and skills, thereby reducing the complexities in this exponentially increasing technical domain.
 
 # Website Contributors
-* [Dev Saini](https://www.linkedin.com/in/-dev-/) 
+* [Dev Saini](https://www.linkedin.com/in/-dev-/){:target="_blank"}
 * [Steve Mann](https://www.linkedin.com/in/stevemann2705/)
 * [Tanisha Rohilla](https://www.instagram.com/tumhari_tan_high/)
 * [Jeff Gonzalez](https://github.com/jmg292)
